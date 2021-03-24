@@ -1,6 +1,6 @@
 # Implicit Surface Reconstruction
-<br>
-In this coding problem we will:
+<hr>
+In this coding problem we will: <br>
 
 - Compute an implicit MLS function approximating a 3D point cloud with given (but possibly unnormalized) normals.
 - Sample the implicit function on a 3D volumetric grid.
