@@ -1,6 +1,6 @@
 # Geometry Processing
 This repository contains some coding homework problems related to the geometric modeling class at NYU implemented with python and libigl. The topics are the following:
-- Implicit Surface Reconstruction
+- Implicit and Explicit Surface Reconstruction
 - Screened Poisson Surface Reconstruction
 - Normals Calculation
 - Surface Bilateral Smoothing and Deformation
